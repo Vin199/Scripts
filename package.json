@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@firebase/storage": "^0.13.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "firebase": "^10.13.1",
+    "firebase-admin": "^12.4.0"
+  },
+  "name": "scripts",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "app.js",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

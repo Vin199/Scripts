@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+**/.DS_Store
+.env
+package-lock.json
+.DS_Store
+extra
+**/debug-iprep.log
+**/debug.log
+pnpm-lock.yaml
